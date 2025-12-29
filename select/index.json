@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "私たちはずっと…でしょう?",
+  "base_artist": "765PRO ALLSTARS",
+  "createdAt": "2025-12-29T12:07:36.259497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私たちはずっと…でしょう? [ORT]",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/01_私たちはずっと...でしょう__[ORT]_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私たちはずっと…でしょう？(M@STER VERSION)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/02_私たちはずっと...でしょう_(M@STER_VERSION)_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私たちはずっと…でしょう",
+      "artist": "765PRO ALLSTARS+",
+      "has_synced": true,
+      "path": "select/03_私たちはずっと...でしょう_765PRO_ALLSTARS+.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私たちはずっと…でしょう？",
+      "artist": "765PRO",
+      "has_synced": true,
+      "path": "select/04_私たちはずっと...でしょう_765PRO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私たちはずっと…でしょう？",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/05_私たちはずっと...でしょう_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "第25話劇中歌「私たちはずっと…でしょう？」",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": true,
+      "path": "select/06_第25話劇中歌「私たちはずっと...でしょう_」_765PRO_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私たちはずっと…でしょう？(M@STER VERSION)",
+      "artist": "765PRO",
+      "has_synced": true,
+      "path": "select/07_私たちはずっと...でしょう_(M@STER_VERSION)_765PRO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私たちはずっと…でしょう?",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_私たちはずっと...でしょう_765PRO_ALLSTARS.txt"
+    }
+  ]
+}
